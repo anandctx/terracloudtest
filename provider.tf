@@ -32,7 +32,7 @@ terraform {
     organization = "anand-terraform-free"
 
     workspaces {
-      prefix = "my-nov25-"
+      name = "mywork"
     }
   }
 }
